@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[wog:home|Door43 (wog)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-wog|d43-wog repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-wog/archive/master.zip|d43-wog.zip]]
+
+**Recent Changes**
+{{changes>ns = wog}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/wog|Ethnologue data]]
+
